@@ -65,10 +65,12 @@ footer {
 
   #column-1 {
     background-color: mediumorchid;
+    width: 50%;
   }
 
   #column-2 {
     background-color: steelblue;
+    width: 50%
   }
 
   #column-3 {
@@ -90,14 +92,17 @@ footer {
 
   #column-1 {
     background-color: purple;
+    width: 33.333%;
   }
 
   #column-2 {
     background-color: royalblue;
+    width: 33.333%;
   }
 
   #column-3 {
     background-color: darkgreen;
+    width: 33.333%;
   }
 
   footer {
